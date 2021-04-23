@@ -1,0 +1,4 @@
+{"id":"5","customer_id":"1234","accepted":true}
+{"id":"6","customer_id":"1234","accepted":true}
+{"id":"7","customer_id":"1234","accepted":true}
+{"id":"8","customer_id":"1234","accepted":false}

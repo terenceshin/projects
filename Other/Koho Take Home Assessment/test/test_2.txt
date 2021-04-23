@@ -1,0 +1,2 @@
+{"id":"1","customer_id":"1234","accepted":true}
+{"id":"2","customer_id":"1234","accepted":false}
